@@ -1,7 +1,7 @@
 # archlinux
 
 ```
-[archlinux-atopuzov]
+[atopuzov]
 SigLevel = Optional TrustedOnly
-Server = https://atopuzov.github.io/archlinux/$arch
+Server = https://atopuzov.github.io/archlinux/
 ```
